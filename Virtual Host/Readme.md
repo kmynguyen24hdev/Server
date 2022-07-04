@@ -120,24 +120,25 @@ Reload lại service của Nginx Web Server
 
 * Bước 1: Create folder demo999, change permission for file and add index.html
 
-![demo999](./images/phan3/1demo.png)
+![demo999](./images/updatevitural/1.png)
 
-![add index.html for demo](./images/phan3/2demo.png) 
+![add index.html for demo](./images/updatevitural/4.png) 
 
 * Bước 2: Create and add config for file demo 
 
-![Access to config for demo](./images/phan3/3demo.png)
+![Access to config for demo](./images/updatevitural/3.png))
 
-![Add config for demo](./images/phan3/4demo.png)
+![Add config for demo](./images/updatevitural/5.png))
 
 * Bước 3: Create file symbolic link to folder /etc/nginx/sites-enabled/
-![symbolic link](./images/phan3/5nginx.png)
+
+![symbolic link](./images/updatevitural/3.png)
 
 * Bước 4 : Change domain for virtual host
 
 ![symbolic link](./images/phan3/6nginx.png)
 
-![symbolic link](./images/phan3/7nginx.png)
+![symbolic link](./images/updatevitural/9.png)
 
 * Reload server
 
@@ -145,7 +146,7 @@ Reload lại service của Nginx Web Server
 
 * Result
 
-![demo result](./images/phan3/9nginx.png)
+![demo result](./images/updatevitural/10.png))
 
 5. Tạo 1 authenticate basic khi vào trang demo.com sẽ bắt nhập username và password. Gợi ý (.htaccess của apache hoặc auth_basic key của nginx)
 
