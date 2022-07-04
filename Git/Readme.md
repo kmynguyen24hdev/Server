@@ -27,7 +27,7 @@
 
     ![.gitignore](./images/6git.png)
 
-    ![.gitignore content](./images/7git.png)  
+    ![.gitignore content](./images/7update.png)  
  
     * Commit file vừa tạo
     
